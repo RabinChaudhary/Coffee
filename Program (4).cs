@@ -19,6 +19,10 @@ namespace SydneyCoffee
             String minName = "";
             double max = -1;
             String maxName = "";
+            int age = 0;
+            string change = "";
+            int age = 0;
+            string changedValue = "";
 
             // Welcome message
             Console.WriteLine("\t\t\t\tWelcome to use Sydney Coffee Program\n");
