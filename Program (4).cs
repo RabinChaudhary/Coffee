@@ -25,12 +25,12 @@ namespace SydneyCoffee
             string changedValue = "";
 
             // Welcome message
-            Console.WriteLine("\t\t\t\tWelcome to use Sydney Coffee Program\n");
+            Console.WriteLine("\t\t\t\tWelcome to use Sydney  arun and rabin Coffee Program\n");
 
             // Loop to get the inputs
             for (int i = 0; i < n; i++)
             {
-                Console.Write("Enter customer name: ");
+                Console.Write("Enter customer name: arun aND ROBIN  ");
                 name[i] = Console.ReadLine();
 
                 quantity[i] = 0;
